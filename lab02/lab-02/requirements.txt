@@ -1,0 +1,9 @@
+attrs
+iniconfig
+numpy
+packaging
+pluggy
+py
+pyparsing
+pytest
+tomli

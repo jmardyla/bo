@@ -1,0 +1,12 @@
+exceptiongroup
+iniconfig
+mypy
+mypy-extensions
+numpy
+packaging
+pluggy
+pytest
+pytest-mock
+pytest-timeout
+tomli
+typing_extensions
